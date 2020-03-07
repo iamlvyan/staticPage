@@ -1,0 +1,2 @@
+# staticPage
+static page contact
